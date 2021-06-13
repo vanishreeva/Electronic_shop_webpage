@@ -25,4 +25,4 @@ I have mainly used HTML5 and CSS3. I have used bootstrap in order to make the we
 
 ## Demo
 To watch the Demo of this project, please click the link given below:
-https://drive.google.com/file/d/1R6OBHtHfihi0nUbkqbERzM5oCKhzKGTx/view?usp=sharing
+https://drive.google.com/file/d/1kor8Xu_jH1ge1mmaAL-X-LWrOifYDk68/view?usp=sharing
